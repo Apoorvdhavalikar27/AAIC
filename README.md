@@ -1,6 +1,6 @@
 # AAIC
 Shooting Game Assignment
 
-#pip install django
+pip install django
 
-#python manage.py runserver
+python manage.py runserver
